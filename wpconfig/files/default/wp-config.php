@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'wordpress.r8uxg4.0001.euc1.cache.amazonaws.com');
  
-define('WP_HOME','https://wordpressELB-496185220.eu-central-1.elb.amazonaws.com');
-define('WP_SITEURL','https://wordpressELB-496185220.eu-central-1.elb.amazonaws.com');
+define('WP_HOME','https://www.ehandbook.de');
+define('WP_SITEURL','https://www.ehandbook.de');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
